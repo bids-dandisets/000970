@@ -1,0 +1,32 @@
+{
+    "Name": "Long-wavelength traveling waves of vasomotion modulate the perfusion of cortex",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Brain arterioles are active, multi-cellular complexes whose diameters oscillate at ~ 0.1 Hz. We assess the physiological impact and spatiotemporal dynamics of vaso-oscillations in the awake mouse. First, vaso-oscillations in penetrating arterioles, which source blood from pial arterioles to the capillary bed, profoundly impact perfusion throughout neocortex. The modulation in flux during resting-state activity exceeds that of stimulus-induced activity. Second, the change in perfusion through arterioles relative to the change in their diameter is weak. This implies that the capillary bed dominates the hydrodynamic resistance of brain vasculature. Lastly, the phase of vaso-oscillations evolves slowly along arterioles, with a wavelength that exceeds the span of the cortical mantle and sufficient variability to establish functional cortical areas as parcels of uniform phase. The phase-gradient supports traveling waves in either direction along both pial and penetrating arterioles. This implies that waves along penetrating arterioles can mix, but not directionally transport, interstitial fluids.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Broggini, Thomas",
+        "Duckworth, Jacob",
+        "Ji, Xiang",
+        "Liu, Rui",
+        "Xia, Xinyue",
+        "Machler, Philipp",
+        "Shaked, Iftach",
+        "Munting, Leon",
+        "Iyengar, Satish",
+        "Kotlikoff, Michael",
+        "van Veluw, Susanne",
+        "Vergassola, Massimo",
+        "Mishne, Gal",
+        "Kleinfeld, David"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
